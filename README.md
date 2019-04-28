@@ -1,9 +1,50 @@
-# ANTH-212
-Study notes for ANTH 212 (Anthropology of Development) Course. 
+# ANTH 212 - Anthropology of Development
+
+Study notes for ANTH 212 (Anthropology of Development) Course.
 
 Bolded lines are important concepts.
 
 If a slide does not have any bold, that means it is all important
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Week 2](#week-2)
+  - [Lecture 4 (Jan 14th) - History of Development](#lecture-4-jan-14th---history-of-development)
+  - [Lecture 5 (Jan 16th) - Theory of Development](#lecture-5-jan-16th---theory-of-development)
+- [Week 3](#week-3)
+  - [Lecture 6 (Jan 21st) - Theories of Development pt. 2](#lecture-6-jan-21st---theories-of-development-pt-2)
+  - [Lecture 7 (Jan 23rd) - Contemporary Issues in Development](#lecture-7-jan-23rd---contemporary-issues-in-development)
+- [Week 4](#week-4)
+  - [Lecture 8 (Jan 28) - Anthropology in Focus](#lecture-8-jan-28---anthropology-in-focus)
+  - [Lecture 9 (Jan 30) - Applied Anthropology](#lecture-9-jan-30---applied-anthropology)
+- [Week 5](#week-5)
+  - [Lecture 10 (Feb 4th) - Applying Anthropology to Development](#lecture-10-feb-4th---applying-anthropology-to-development)
+  - [Lecture 11 (Feb 6th) - Anthropology _of_ Development](#lecture-11-feb-6th---anthropology-_of_-development)
+- [Week 6](#week-6)
+  - [Lecture 12 (Feb 11th) - Anthropology of Development 2, New Paths of study and action](#lecture-12-feb-11th---anthropology-of-development-2-new-paths-of-study-and-action)
+- [Week 7](#week-7)
+  - [Lecture 13 (Feb 18th) - Public Anthropology](#lecture-13-feb-18th---public-anthropology)
+  - [Lecture 14 (Feb 20th) - What's all the buzz? pt. 2](#lecture-14-feb-20th---whats-all-the-buzz-pt-2)
+- [Week 8](#week-8)
+  - [Lecture 15 (Mar 4th) - Midterm Review](#lecture-15-mar-4th---midterm-review)
+- [Week 9](#week-9)
+  - [Lecture 16 (Mar 11th)- Development and Environment](#lecture-16-mar-11th--development-and-environment)
+  - [Lecture 17 (Mar 13th) - Conservation](#lecture-17-mar-13th---conservation)
+- [Week 10](#week-10)
+  - [Lecture 18 (Mar 18th) - Humanitarianism](#lecture-18-mar-18th---humanitarianism)
+  - [Lecture 19 (Mar 20th) - Humanitarianism pt. 2](#lecture-19-mar-20th---humanitarianism-pt-2)
+- [Week 11](#week-11)
+  - [Lecture 20 (Mar 25th) - Development and Sport](#lecture-20-mar-25th---development-and-sport)
+  - [Lecture 21 (Mar 27th) - Development and Sport Pt. 2](#lecture-21-mar-27th---development-and-sport-pt-2)
+- [Week 12](#week-12)
+  - [Lecture 22 (Apr 1st) - Voluntourism](#lecture-22-apr-1st---voluntourism)
+  - [Lecture 23 (Apr 3rd) - Voluntourism pt. 2](#lecture-23-apr-3rd---voluntourism-pt-2)
+- [Week 13](#week-13)
+  - [Lecture 24 (April 10th) - Final Review](#lecture-24-april-10th---final-review)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Week 2
 
@@ -584,7 +625,7 @@ If a slide does not have any bold, that means it is all important
 
 ## Week 7
 
-### Lecture 13 (Feb 18th)
+### Lecture 13 (Feb 18th) - Public Anthropology
 
 #### Public Anthropology
 
@@ -690,7 +731,7 @@ If a slide does not have any bold, that means it is all important
 
 ## Week 8
 
-### Lecture 15 - Midterm Review
+### Lecture 15 (Mar 4th) - Midterm Review
 
 - Test will focus on concepts and case studies covered in lectures and conferences
 - conference material will (may) be tested
@@ -731,7 +772,7 @@ If a slide does not have any bold, that means it is all important
 
 ## Week 9
 
-### Lecture 16 - Development and Environment (Mar 11th)
+### Lecture 16 (Mar 11th)- Development and Environment
 
 #### Environment, nature, and ecology
 
@@ -805,7 +846,7 @@ If a slide does not have any bold, that means it is all important
 - Many anths pessimistic about env futures.
   - Reason: **know how challenging it is to make people act in ways that are culturally counter- intuitive**
 
-### Lecture 17 (Mar 13) - Conservation
+### Lecture 17 (Mar 13th) - Conservation
 
 #### Why conservation as development?
 
@@ -889,7 +930,7 @@ If a slide does not have any bold, that means it is all important
 
 ## Week 10
 
-### Lecture 18 (Mar 18) - Humanitarianism
+### Lecture 18 (Mar 18th) - Humanitarianism
 
 #### Humanitarianism vs. Development
 
@@ -941,7 +982,7 @@ If a slide does not have any bold, that means it is all important
 - **More likely to learn languages, forge close relations, work for longer in places unattractive to development professionals**
 - **Cultural relativism understood differently**. Sometimes, harsh stances on social issues like family planning
 
-### Lecture 19 (Mar 20) - Humanitarianism pt. 2
+### Lecture 19 (Mar 20th) - Humanitarianism pt. 2
 
 #### Church of Development
 
@@ -1011,7 +1052,7 @@ If a slide does not have any bold, that means it is all important
 
 ## Week 11
 
-### Lecture 20 (Mar 25) - Development and Sport
+### Lecture 20 (Mar 25th) - Development and Sport
 
 #### Background
 
@@ -1071,7 +1112,7 @@ If a slide does not have any bold, that means it is all important
 - **European football especially known for sectarian violence**. Hockey cricket, other sports too
 - Does sport bring us together or hold us apart?
 
-### Lecture 21 (Mar 27) - Development and Sport Pt. 2
+### Lecture 21 (Mar 27th) - Development and Sport Pt. 2
 
 #### Character Development
 
@@ -1128,7 +1169,7 @@ If a slide does not have any bold, that means it is all important
 
 ## Week 12
 
-### Lecture 22 (Apr 1) - Voluntourism
+### Lecture 22 (Apr 1st) - Voluntourism
 
 #### Voluntourism Introduction
 
@@ -1167,7 +1208,7 @@ If a slide does not have any bold, that means it is all important
 
 - "To promote world peace and friendship through a Peace Corps, which shall make available to interested countries and areas men and women of the US qualified for service abroad and willing to serve, under conditions of hardship if necessary, to help the peoples of such countries and areas in meeting their needs for trained manpower"
 
-### Lecture 23 (Apr 3) - Voluntourism pt. 2
+### Lecture 23 (Apr 3rd) - Voluntourism pt. 2
 
 #### Neoliberal Volunteering
 
@@ -1238,7 +1279,7 @@ If a slide does not have any bold, that means it is all important
 
 ## Week 13
 
-### Lecture 24 (April 10) - Final Review
+### Lecture 24 (April 10th) - Final Review
 
 #### Environment
 
@@ -1259,7 +1300,7 @@ If a slide does not have any bold, that means it is all important
 - Ecotourism: way to make rural lands productive without disrupting them through ex: mining
   - Leave land alone, make money by welcoming people to visit
 
-#### issues in conservation
+#### Issues in conservation
 
 - Resent people telling them how to use their land and do tourism
 - Jobs and opportunities under ecotourism do not deliver under the results they promise
@@ -1323,7 +1364,7 @@ If a slide does not have any bold, that means it is all important
   - Not as much contribution
   - Not too great for volunteering
 
-### Effect on voluntourists according to Kate Simpson
+#### Effect on voluntourists according to Kate Simpson
 
 - Kate Simpson: research among upper middle class young people that participated in voluntourism
 - Troubling impact on people that had participated in them
