@@ -9,7 +9,6 @@ If a slide does not have any bold, that means it is all important
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Week 2](#week-2)
   - [Lecture 4 (Jan 14th) - History of Development](#lecture-4-jan-14th---history-of-development)
   - [Lecture 5 (Jan 16th) - Theory of Development](#lecture-5-jan-16th---theory-of-development)
@@ -428,8 +427,8 @@ If a slide does not have any bold, that means it is all important
 
 - When colonialism ended, Western anthros saw their access to study subjects and areas shrink
 - Anthropologists and anthro schools multiplied. More purists and fewer practitioners for a time
-- ^0s: anthropology recognized as ally of sexual revolution, civil rights and feminist movements
-- Margaret Meade: among first scientists to describe sex as natural, universal (radical in 60s America)
+- 60s: anthropology recognized as ally of sexual revolution, civil rights and feminist movements
+- **Margaret Meade: among first scientists to describe sex as natural, universal (radical in 60s America)**
 - Many anthros supported independence of colonies
 - Cold War: some anthros went to work in intelligence (Project Camelot, Latin America)
   - Large scale CIA op to weed out people in Latin America
